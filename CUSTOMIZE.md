@@ -33,7 +33,7 @@ How to fix it:
 </text>
 ```
 
-The **Preview** tab in the GitHub editor shows the final result. Use it to check.
+The **Preview** tab, next to **Edit**, shows the final state of the bubbles: sizes, spacing and text. It does not show the animation, only the last frame. Open it after every edit, before committing.
 
 ## Fonts and glyphs
 
