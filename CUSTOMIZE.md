@@ -2,7 +2,7 @@
 
 This repository is an animated intro chat for a GitHub profile README. Six short messages type in, one after the other. You can use it and adapt it as you like. It is MIT licensed.
 
-## Steps
+## Step by step
 
 1. Fork this repository.
 2. Rename the fork to your GitHub username. The README only becomes your profile when the repository is named `username/username`. GitHub only lets you do this if you don't already have a repository with that name. If you do, create a new repository with that name and copy `chat.svg` and the image line of `README.md` into it.
@@ -69,3 +69,5 @@ Rules:
 ## License
 
 MIT, see `LICENSE`. Inter is licensed under the SIL Open Font License 1.1.
+
+Enjoy!
